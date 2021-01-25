@@ -19,22 +19,23 @@ o=int(input("Digita la operación que vas a realizar: " ))
 if o == 1:  
     r = x+y
     print("el resultado es: " + str(r))
+    print("\n Hecho por dennisq")
     
 elif o==2:
     r = x-y
     print("el resultado es: " + str(r))
+    print("\n Hecho por dennisq")
     
 elif o==3:
     r = x*y
     print("el resultado es: " + str(r))  
+    print("\n Hecho por dennisq")
     
 elif o==4:
     r = x/y
     print("el resultado es: " + str(r))
+    print("\n Hecho por dennisq")
     
 else:
     print("su operación es incorrecta")
     print("\n Hecho por dennisq")
-
-    
-
