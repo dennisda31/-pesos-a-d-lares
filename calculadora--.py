@@ -34,6 +34,7 @@ elif o==4:
     
 else:
     print("su operación es incorrecta")
+    print("\n Hecho por dennisq")
 
     
 
